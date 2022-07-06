@@ -1,0 +1,20 @@
+{
+  "name": "apicompraminecraft",
+  "version": "1.0.0",
+  "description": "Api feita para atividade em sala - Framework/Devweb\r Link da Api pronta usada de fora: https://github.com/pandapaul/minecraft-items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinCrobin/apiCompraMinecraft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinCrobin/apiCompraMinecraft/issues"
+  },
+  "homepage": "https://github.com/robinCrobin/apiCompraMinecraft#readme"
+}
